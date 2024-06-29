@@ -16,6 +16,76 @@ const profiles = [
     technologies: ['Agile', 'Scrum', 'Kanban'],
     description: 'Skilled in product development and team management.'
   },
+  {
+    name: 'John Doe',
+    role: 'Software Engineer',
+    image: 'https://via.placeholder.com/150',
+    technologies: ['JavaScript', 'React', 'Node.js'],
+    description: 'Experienced full-stack developer.'
+  },
+  {
+    name: 'Jane Smith',
+    role: 'Product Manager',
+    image: 'https://via.placeholder.com/150',
+    technologies: ['Agile', 'Scrum', 'Kanban'],
+    description: 'Skilled in product development and team management.'
+  },
+  {
+    name: 'John Doe',
+    role: 'Software Engineer',
+    image: 'https://via.placeholder.com/150',
+    technologies: ['JavaScript', 'React', 'Node.js'],
+    description: 'Experienced full-stack developer.'
+  },
+  {
+    name: 'Jane Smith',
+    role: 'Product Manager',
+    image: 'https://via.placeholder.com/150',
+    technologies: ['Agile', 'Scrum', 'Kanban'],
+    description: 'Skilled in product development and team management.'
+  },
+  {
+    name: 'John Doe',
+    role: 'Software Engineer',
+    image: 'https://via.placeholder.com/150',
+    technologies: ['JavaScript', 'React', 'Node.js'],
+    description: 'Experienced full-stack developer.'
+  },
+  {
+    name: 'Jane Smith',
+    role: 'Product Manager',
+    image: 'https://via.placeholder.com/150',
+    technologies: ['Agile', 'Scrum', 'Kanban'],
+    description: 'Skilled in product development and team management.'
+  },
+  {
+    name: 'John Doe',
+    role: 'Software Engineer',
+    image: 'https://via.placeholder.com/150',
+    technologies: ['JavaScript', 'React', 'Node.js'],
+    description: 'Experienced full-stack developer.'
+  },
+  {
+    name: 'Jane Smith',
+    role: 'Product Manager',
+    image: 'https://via.placeholder.com/150',
+    technologies: ['Agile', 'Scrum', 'Kanban'],
+    description: 'Skilled in product development and team management.'
+  },
+  {
+    name: 'John Doe',
+    role: 'Software Engineer',
+    image: 'https://via.placeholder.com/150',
+    technologies: ['JavaScript', 'React', 'Node.js'],
+    description: 'Experienced full-stack developer.'
+  },
+  {
+    name: 'Jane Smith',
+    role: 'Product Manager',
+    image: 'https://via.placeholder.com/150',
+    technologies: ['Agile', 'Scrum', 'Kanban'],
+    description: 'Skilled in product development and team management.'
+  },
   // Agrega más perfiles aquí
 ];
 
